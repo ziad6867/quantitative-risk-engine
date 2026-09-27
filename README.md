@@ -1,6 +1,6 @@
 # Interactive Liability-Driven Investing (LDI) & Dynamic Risk Engine
 
-**Watch the Demo Video:** [Insert link to your 60-second Loom/YouTube video here]
+
 
 ### The Elevator Pitch
 A full-stack, real-time quantitative finance application that bridges the gap between institutional risk management theory and applied computer engineering. It features dynamic portfolio optimization, tail risk diagnostics, and a trend-following Portfolio Insurance (CPPI) algorithm.
